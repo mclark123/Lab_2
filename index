@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Workout Wiki</title>
+
+    <script src="js/main.js"></script>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <div class="topnav" id="myTopnav">
+        <a class="active" href="index.html">Background</a>
+        <a href="section1.html">Proper Regimen</a>
+        <a href="section2.html">Proper Diet</a>
+        <a href="section3.html">Proper Technique</a>
+        <a href="see_also.html">See Also</a>
+        
+            <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+          
+    </div>
+
+    <!-- Page content -->
+    <div class="content">
+        Many people work out and diet. 
+        However, many people do not work out properly or diet properly to see the results they want to see. 
+        In the following wiki, you will learn the basics of working out and how to properly diet to see the results you want to see for beginners. 
+        The following content is based on my experiences and research for working out and dieting.
+        <br>
+        <br>
+        Picture of a man doing bicep curls:
+        <br>
+        <img src="img/workout2.jpg" style="width: 50%; height: auto;">
+        <br>
+        <br>
+        <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<br>
+Check out "working out" on facebook and Twitter for more info!
+<br>
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+        
+    </div>
+
+
+</body>
+
+</html>
